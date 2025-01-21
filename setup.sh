@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Currently in development, not yet tested
 
 # Color codes for output
 RED='\033[0;31m'
